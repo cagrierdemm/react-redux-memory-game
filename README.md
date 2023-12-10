@@ -1,3 +1,16 @@
+# Memory Game App
+
+Memory Game App with React & Redux
+
+## Live Demo
+
+[https://cagrierdemm.github.io/react-redux-memory-game/](https://cagrierdemm.github.io/react-redux-memory-game/)
+
+## Preview:
+
+![preview.jpg](./public/preview.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
