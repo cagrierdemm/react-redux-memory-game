@@ -16,7 +16,7 @@ function Board() {
 
   return (
     <div>
-    <h1 className='text-center mt-4 text-white fw-bold'>Memory Game<a href='https://github.com/cagrierdemm'><img className='img img-fluid ms-3 mb-1 icon' src='./github.png' width={32}/></a></h1>
+    <h1 className='text-center mt-4 text-white fw-bold'>Memory Game<a href='https://github.com/cagrierdemm'><img className='img img-fluid ms-3 mb-1 icon' src='./github.png' alt='github logo' width={32}/></a></h1>
     <h5 className='text-center mt-4 text-white fw-bold'>Score: {score}</h5>
     {matched.length === 8 && <button className='menuBtn text-center my-1' onClick={() => dispatch(initializeGame())}>New Game</button>}
     
