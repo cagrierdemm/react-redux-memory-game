@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-redux-memory-game/static/css/main.79aaebe0.css",
+    "main.js": "/react-redux-memory-game/static/js/main.e1c927c4.js",
+    "static/js/787.5b4c2d18.chunk.js": "/react-redux-memory-game/static/js/787.5b4c2d18.chunk.js",
+    "index.html": "/react-redux-memory-game/index.html",
+    "main.79aaebe0.css.map": "/react-redux-memory-game/static/css/main.79aaebe0.css.map",
+    "main.e1c927c4.js.map": "/react-redux-memory-game/static/js/main.e1c927c4.js.map",
+    "787.5b4c2d18.chunk.js.map": "/react-redux-memory-game/static/js/787.5b4c2d18.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79aaebe0.css",
+    "static/js/main.e1c927c4.js"
+  ]
+}
